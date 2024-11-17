@@ -1,0 +1,4 @@
+file = open('C:\\Users\Борис\Desktop\универ\практика 10\\test.txt', 'r')
+print(*file)
+print(file)
+file.close()
