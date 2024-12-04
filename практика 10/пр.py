@@ -1,4 +1,4 @@
-with open('C:\\Users\\Борис\\Desktop\\универ\\практика 10\\ЕАБ_уб-42_vvod.txt', 'r') as file:
+with open('C:\\Users\\Борис\\Desktop\\универ\\практика 10\\ЕАБ_уб-42_vvod.txt', 'r') as file:  #ефимова ангелина борисовна
     # читаем размер матрицы
     rows, cols = map(int, file.readline().split())
     N = []
